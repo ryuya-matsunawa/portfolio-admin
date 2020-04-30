@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+/Users/ruymtnw/seattle-academy20/eclipse/Portfolio-Admin/.metadata/.plugins/org.eclipse.jdt.core
-2013646486.index
