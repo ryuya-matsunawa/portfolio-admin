@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/Users/ruymtnw/seattle-academy20/eclipse/Portfolio-Admin/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+822279226.index
+2453138772.index
+1297846930.index
+3170592533.index
+2013646486.index
